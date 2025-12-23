@@ -105,3 +105,11 @@ The Power BI dashboard provides a strategic overview of the data, focusing on:
 * **Fraud Distribution by Sender Persona**: Identifying which user types are most vulnerable.
 * **Merchant Category Risk**: Visualizing which sectors (e.g., Betting, E-commerce) experience the highest fraud rates.
 * **Temporal Analysis**: Tracking fraud spikes during night hours and specific weeks of the month.
+* 
+ <img width="1187" height="667" alt="page_1" src="https://github.com/user-attachments/assets/499b8c1f-9978-4c66-b639-77b871c5b0a8" />
+
+  <img width="1188" height="673" alt="page_2" src="https://github.com/user-attachments/assets/dc194cec-3f6b-4d2a-8faf-7473ae2727d0" />
+  <img width="1187" height="668" alt="page_3" src="https://github.com/user-attachments/assets/69b05452-b8b4-4205-8bc8-f0d711e8c6e1" />
+
+
+
